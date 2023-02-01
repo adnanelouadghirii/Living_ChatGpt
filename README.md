@@ -24,5 +24,4 @@ The project already contain a small model for vosk, you can find more models her
 
 # Usage
 
-The script stays idle in the background and responds to the word "start", transcribes the user's voice then call the OpenAI api to generate a response and read it back to the user
-
+The script stays idle in the background and responds to the phrase "are you there", transcribes the user's voice then call the OpenAI api to generate a response and read it back to the user
