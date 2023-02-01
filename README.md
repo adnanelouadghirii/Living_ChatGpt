@@ -1,5 +1,5 @@
 # Living_ChatGpt
-A simple voice commands software that uses OpenAI to answer questions
+A simple voice commands software that uses OpenAI api to answer questions and provide info.
 It uses Vosk as a voice recognition toolkit
 # Installation
 You will need to install openai, pyttsx3, vosk and pyaudio
