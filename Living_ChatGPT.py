@@ -6,7 +6,7 @@ from vosk import Model, KaldiRecognizer
 import pyaudio
 
 # Add OpenAI API key
-openai.api_key = "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"
+openai.api_key = "Your openAI API"
 
 # Set the model
 model_engine = "text-davinci-003"
